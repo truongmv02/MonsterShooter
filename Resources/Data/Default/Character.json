@@ -1,0 +1,12 @@
+{
+  "Characters": [
+    {
+      "Name": "Mage",
+      "Speed": 400,
+      "Hp": 500,
+      "HpMax": 500,
+      "Mp": 300,
+      "MpMax": 300
+    }
+  ]
+}

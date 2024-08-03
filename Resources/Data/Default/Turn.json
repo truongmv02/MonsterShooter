@@ -1,0 +1,81 @@
+{
+  "Turns": [
+    {
+      "Percent": 0,
+      "Gates": [
+        {
+          "Gate":2,
+          "Monsters": [
+            {
+              "Name": "Ariman",
+              "Count": 5
+            },
+            {
+              "Name": "Gosth",
+              "Count": 5
+            }
+          
+          ]
+        }
+      ]
+    },
+    {
+      "Percent": 0.1,
+      "Gates": [
+        {
+          "Gate":1,
+          "Monsters": [
+            {
+              "Name": "Deathspirit",
+              "Count": 7
+            },
+            {
+              "Name": "Gosth",
+              "Count": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Percent": 0.2,
+      "Gates": [
+        {
+          "Gate":2,
+          "Monsters": [
+            {
+              "Name": "Ariman",
+              "Count": 10
+            },
+            {
+              "Name": "Bat",
+              "Count": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Percent": 0.3,
+      "Gates": [
+        {
+          "Gate":3,
+          "Monsters": [
+            {
+              "Name": "Ariman",
+              "Count": 10
+            },
+            {
+              "Name": "Gosth",
+              "Count": 10
+            },
+            {
+              "Name": "Bat",
+              "Count": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

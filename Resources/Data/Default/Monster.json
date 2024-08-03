@@ -1,0 +1,36 @@
+{
+  "Monsters": [
+    {
+      "Name": "Bat",
+      "Speed": 20,
+      "AttackSpeed": 2,
+      "Hp": 160,
+      "HpMax": 160,
+      "Dame": 10
+    },
+    {
+      "Name": "Ariman",
+      "Speed": 30,
+      "AttackSpeed": 5,
+      "Hp": 100,
+      "HpMax": 100,
+      "Dame": 40
+    },
+    {
+      "Name": "Gosth",
+      "Speed": 25,
+      "AttackSpeed": 4,
+      "Hp": 130,
+      "HpMax": 130,
+      "Dame": 25
+    },
+    {
+      "Name": "Deathspirit",
+      "Speed": 30,
+      "AttackSpeed": 4,
+      "Hp": 150,
+      "HpMax": 150,
+      "Dame": 25
+    }
+  ]
+}
